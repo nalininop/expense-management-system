@@ -4,8 +4,8 @@ A modern Expense Tracker Dashboard built using HTML, CSS, and JavaScript. This p
 
 ## 📌 About the Project
 
-I developed this project to strengthen my frontend development skills and gain practical experience with JavaScript DOM manipulation, Local Storage, and data visualization.
-
+I developed this project to strengthen my frontend development skills and gain practical experience with JavaScript DOM manipulation, Local Storage, and data visualizatio
+Live Demo - expensemanagement-system.netlify.app
 The application allows users to:
 
 * Set and update their budget
