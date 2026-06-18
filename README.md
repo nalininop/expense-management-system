@@ -71,8 +71,8 @@ Through this project, I learned:
 5. Click **Open with Live Server**.
 
 ## 📸 Project Preview
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/8c0f666f-d0ff-43c1-980a-7bf125cdce2f" />
 
-Add screenshots of your dashboard here.
 
 ## 🌟 Future Enhancements
 
